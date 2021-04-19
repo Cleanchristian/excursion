@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana;
+    background-color: black;
+    color: white;
+}
+header{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.load{
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
