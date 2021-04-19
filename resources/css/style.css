@@ -2,16 +2,38 @@
     font-family: Verdana;
     background-color: black;
     color: white;
+    text-align: center;
 }
 header{
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
 .load{
     color: aquamarine;
     font-size: 16px;
-    text-align: center;
+}
+video{
+    display: block;
+    margin: auto;
+}
+
+.big{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.grayed{
+    font-size: 21px;
+    color: gray;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+footer{
+    text-align: right;
 }
